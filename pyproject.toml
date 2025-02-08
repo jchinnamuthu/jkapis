@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jkapis"
+version = "0.1.0"
+description = "A sample Python package"
+authors = [{name = "Jeyakumar Chinnamuthu", email = "jchinnamuthu@gmail.com"}]
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.6"
+dependencies = []
