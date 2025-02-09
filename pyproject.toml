@@ -8,6 +8,8 @@ version = "0.1.0"
 description = "A sample Python package"
 authors = [{name = "Jeyakumar Chinnamuthu", email = "jchinnamuthu@gmail.com"}]
 readme = "README.md"
-license = {text = "MIT"}
+license = {file = "LICENSE"}
 requires-python = ">=3.6"
-dependencies = []
+dependencies = [
+    "requests"
+]
