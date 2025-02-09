@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "jkapis"
-version = "0.1.0"
+version = "0.0.2"
 description = "A sample Python package"
 authors = [{name = "Jeyakumar Chinnamuthu", email = "jchinnamuthu@gmail.com"}]
 readme = "README.md"
